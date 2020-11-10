@@ -48,9 +48,9 @@ We will attempt to answer the following questions in our analysis:
 - Skills: Data cleansing, statistical analysis, and documentation. 
 
 ### Kunal Sharma
-- Education
-- Occupation
-- Skills
+- Education: MS Data Science Drexel University (in-progress)
+- Occupation: Student
+- Skills: Data engineering, machine learning
 
 
 # EXPLANATION OF DATASETS
