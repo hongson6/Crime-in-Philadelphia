@@ -24,9 +24,9 @@ Raj - add intro here
 - Skills
 
 ### Raj Patel
-- Education
-- Occupation
-- Skills
+- Education: BS/MS Data Science Drexel University (in-progress)
+- Occupation: Student
+- Skills: Data cleansing, statistical analysis, and documentation. 
 
 ### Kunal Sharma
 - Education
