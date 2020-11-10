@@ -21,7 +21,6 @@ We will attempt to answer the following questions in our analysis:
 - Is there a pattern to the occurrence of crime? Example: a day of a week when it is more likely that a crime will occur,  the average number of crimes likely to occur in a day, week or month.
 - Is the average crime count the same across regions (north, west, south) in Philadelphia?
 - Is there a correlation between temperature (F) and number of crimes?
-- Is there any interesting relations between the weather stuff?
 
 
 # Table of Contents
