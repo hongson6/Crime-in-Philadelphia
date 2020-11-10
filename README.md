@@ -38,9 +38,9 @@ We will attempt to answer the following questions in our analysis:
 # TEAM MEMBERS
 
 ### Hong Son
-- Education
-- Occupation
-- Skills
+- Education: BS/MS Data Science Drexel University (in-progress)
+- Occupation: Student
+- Skills: Data engineering, machine learning, and presenting. 
 
 ### Raj Patel
 - Education: BS/MS Data Science Drexel University (in-progress)
