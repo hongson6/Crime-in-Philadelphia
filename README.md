@@ -30,8 +30,8 @@ We will attempt to answer the following questions in our analysis:
 1. [Pitch Presentation](#PITCH-PRESENTATION)
 1. [Pre-Processing](#DATA-PRE-PROCESSING)
 1. [Analysis](#DATA-ANALYSIS)
-1. [Vizualization](#DATA-VISUALIZATION)
-1. [Final Report](#FINAL-REPORT)
+1. [Exploratory Data Analytics Report](#EXPLORATORY-DATA-ANALYTICS)
+1. [Visualization](#DATA-VISUALIZATION)
 1. [Final Presentation](#FINAL-PRESENTATION)
 
 
@@ -92,5 +92,7 @@ To assist in getting more out of our analysis, we will be scraping Philadelphia 
 [Exploratory Data Analytics Report]
 (https://github.com/hongson1218/Crime-in-Philadelphia/blob/master/Reports/DSCI%20591%20Exploratory%20Data%20Analytics%20Report.pdf)
 
+
+# DATA VISUALIZATION
 
 # FINAL PRESENTATION
