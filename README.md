@@ -72,7 +72,7 @@ To assist in getting more out of our analysis, we will be scraping Philadelphia 
 # OUTLINE
 
 [Outline Report]
-(https://github.com/hongson1218/Crime-in-Philadelphia/blob/master/Documentation/Project%20Outline_%20Crimes%20in%20Philadelphia.docx)
+(https://github.com/hongson1218/Crime-in-Philadelphia/blob/master/Reports/Project%20Outline_%20Crimes%20in%20Philadelphia.pdf)
 
 
 # PITCH PRESENTATION
@@ -84,11 +84,13 @@ To assist in getting more out of our analysis, we will be scraping Philadelphia 
 # DATA-PRE-PROCESSING
 
 [Data Acquisition and Per-Processing Report]
-(https://github.com/hongson1218/Crime-in-Philadelphia/blob/master/Documentation/DSCI%20591%20Data%20Acquisition%20and%20Per-Processing%20Report%20template%20(Wk6).docx)
+(https://github.com/hongson1218/Crime-in-Philadelphia/blob/master/Reports/DSCI%20591%20Data%20Acquisition%20and%20Per-Processing%20Report.pdf)
 
 
-# DATA VISUALIZATION
+# EXPLORATORY DATA ANALYTICS
 
-# FINAL REPORT
+[Exploratory Data Analytics Report]
+(https://github.com/hongson1218/Crime-in-Philadelphia/blob/master/Reports/DSCI%20591%20Exploratory%20Data%20Analytics%20Report.pdf)
+
 
 # FINAL PRESENTATION
