@@ -71,31 +71,27 @@ To assist in getting more out of our analysis, we will be scraping Philadelphia 
 
 ## OUTLINE
 
-[Outline Report]
-(https://github.com/hongson1218/Crime-in-Philadelphia/blob/master/Reports/Project%20Outline_%20Crimes%20in%20Philadelphia.pdf)
+[Outline Report](https://github.com/hongson1218/Crime-in-Philadelphia/blob/master/Reports/Project%20Outline_%20Crimes%20in%20Philadelphia.pdf)
 
 
 ## PITCH PRESENTATION
 
-[Pitch Presentation]
-(https://github.com/hongson1218/Crime-in-Philadelphia/blob/master/Presentations/Pitch%20Presentation.pptx)
+[Pitch Presentation](https://github.com/hongson1218/Crime-in-Philadelphia/blob/master/Presentations/Pitch%20Presentation.pptx)
 
 
 ## DATA-PRE-PROCESSING
 
-[Data Acquisition and Per-Processing Report]
-(https://github.com/hongson1218/Crime-in-Philadelphia/blob/master/Reports/DSCI%20591%20Data%20Acquisition%20and%20Per-Processing%20Report.pdf)
+[Data Acquisition and Per-Processing Report](https://github.com/hongson1218/Crime-in-Philadelphia/blob/master/Reports/DSCI%20591%20Data%20Acquisition%20and%20Per-Processing%20Report.pdf)
 
 
 ## EXPLORATORY DATA ANALYTICS
 
-[Exploratory Data Analytics Report]
-(https://github.com/hongson1218/Crime-in-Philadelphia/blob/master/Reports/DSCI%20591%20Exploratory%20Data%20Analytics%20Report.pdf)
+[Exploratory Data Analytics Report](https://github.com/hongson1218/Crime-in-Philadelphia/blob/master/Reports/DSCI%20591%20Exploratory%20Data%20Analytics%20Report.pdf)
 
 
 ## DATA VISUALIZATION
-[DATA VISUALIZATION & PROGRAM README]
-(https://github.com/hongson1218/Crime-in-Philadelphia/blob/master/Reports/Team%203%20-%20Program%20Readme.docx)
+[DATA VISUALIZATION & PROGRAM README](https://github.com/hongson1218/Crime-in-Philadelphia/blob/master/Reports/Team%203%20-%20Program%20Readme.docx)
 
 
 ## FINAL PRESENTATION
+[Final Presentation](https://github.com/hongson1218/Crime-in-Philadelphia/blob/master/Presentations/Final%20Presentation.pptx)
