@@ -90,7 +90,7 @@ To assist in getting more out of our analysis, we will be scraping Philadelphia 
 
 
 ## DATA VISUALIZATION
-[DATA VISUALIZATION & PROGRAM README](https://github.com/hongson1218/Crime-in-Philadelphia/blob/master/Reports/Team%203%20-%20Program%20Readme.docx)
+[Data Visualizations & Program README](https://github.com/hongson1218/Crime-in-Philadelphia/blob/master/Reports/Team%203%20-%20Program%20Readme.docx)
 
 
 ## FINAL PRESENTATION
